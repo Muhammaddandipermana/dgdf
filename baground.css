@@ -1,0 +1,19 @@
+#sinon {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+body {
+    background-color: lightblue;
+    background-image: url(naga.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p {
+    text-align: justify;
+    color: white;
+    word-spacing: 1px;
+}
